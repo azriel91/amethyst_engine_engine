@@ -304,7 +304,7 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ### Show Off
 
-![](assets/images/show_off_bubble.png)
+<img src="assets/images/show_off_bubble.png" width="281" height="336" />
 
 +++
 
@@ -316,14 +316,8 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ### Show Off
 
-![](assets/images/show_off_bee.gif)
-
-+++
-
-### Show Off
-
 <video autoplay loop width="504" height="303" controls>
-  <source src="assets/images/show_off_platform.mp4" type="video/mp4">
+  <source src="https://azriel.im/amethyst_engine_engine/assets/images/show_off_platform.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -332,7 +326,7 @@ fn my_system_does_something() -> Result<(), Error> {
 ### Show Off
 
 <video autoplay loop width="386" height="432" controls>
-  <source src="assets/images/show_off_shooter.mp4" type="video/mp4">
+  <source src="https://azriel.im/amethyst_engine_engine/assets/images/show_off_shooter.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -341,7 +335,7 @@ fn my_system_does_something() -> Result<(), Error> {
 ### Show Off
 
 <video autoplay loop width="480" height="270" controls>
-  <source src="assets/images/show_off_waves.mp4" type="video/mp4">
+  <source src="https://azriel.im/amethyst_engine_engine/assets/images/show_off_waves.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
