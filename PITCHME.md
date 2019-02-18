@@ -113,19 +113,25 @@ $ git log --oneline --graph
 
 ### Philosophy: ECS Model
 
-TODO: Diagram for Player and Monster class
+![](assets/images/ecs_oo_model.png)
 
 +++
 
 ### Philosophy: ECS Model
 
-TODO: Diagram for object instances
+![](assets/images/ecs_oo_instances.png)
 
 +++
 
 ### Philosophy: ECS Model
 
-TODO: Diagram for component storages
+![](assets/images/ecs_component_storages.png)
+
++++
+
+### Philosophy: ECS Model
+
+![](assets/images/ecs_position_update.png)
 
 ---
 
