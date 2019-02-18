@@ -173,9 +173,9 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 
 **Asset:** Configuration / data loaded at runtime.
 
-* Audio files
-* Textures (aka images)
-* Scripts
+* 🎵 Audio files
+* 🖼️ Textures (aka images)
+* 📝 Scripts
 
 +++
 
@@ -187,9 +187,8 @@ TODO: diagram "isn't is just `file.read()?.parse()?`"
 
 ### Features: Asset Loading
 
-* Asynchronous
-* Potential for caching
-* Hot-reload
+* ⏲️ Asynchronous
+* 💽 Hot-reload
 
 +++
 
@@ -207,7 +206,7 @@ Demo: Hot Reload
 
 ### Features: Networking
 
-**Laminar:** Protocol built over UDP, with some TCP features.
+**📡 Laminar:** Protocol built over UDP, with some TCP features.
 
 **Repository:** https://github.com/amethyst/laminar
 
