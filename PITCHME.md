@@ -181,7 +181,7 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 
 ### Features: Asset Loading
 
-TODO: diagram "isn't is just `file.read()?.parse()?`"
+![](assets/images/asset_loading.png)
 
 +++
 
