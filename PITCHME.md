@@ -81,6 +81,18 @@ $ git log --oneline --graph
 
 ### Philosophy: Unix Philosophy
 
+![](assets/images/philosophy_game_engine.png)
+
++++
+
+### Philosophy: Unix Philosophy
+
+![](assets/images/philosophy_game_engine_engine.png)
+
++++
+
+### Philosophy: Unix Philosophy
+
 > Amethyst does not force you to adopt the way the creator thinks you should build a game, but it means that you have to be a good programmer to architect a game.
 >
 > It's also the kind of stuff which **if badly done, would cause massive refactoring later**
@@ -92,18 +104,6 @@ $ git log --oneline --graph
 ### Philosophy: Unix Philosophy
 
 ![](assets/images/philosophy_refactor.png)
-
-+++
-
-### Philosophy: Unix Philosophy
-
-![](assets/images/philosophy_game_engine.png)
-
-+++
-
-### Philosophy: Unix Philosophy
-
-![](assets/images/philosophy_game_engine_engine.png)
 
 ---
 
