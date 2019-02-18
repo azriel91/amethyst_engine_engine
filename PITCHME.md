@@ -216,6 +216,12 @@ Very much a work in progress.
 
 ![](assets/images/rendering_ui.png)
 
++++
+
+### Features: UI
+
+<img src="assets/images/rendering_ui_now.png" width="513" height="400" />
+
 ---
 
 ### Features: Thread Profiler
