@@ -141,8 +141,6 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 
 ![](assets/images/rendering_3d.png)
 
-+++
-
 ---
 
 ### Features: Asset Loading
@@ -152,8 +150,6 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 ### Features: Asset Loading
 
 **Asset:** Configuration / data loaded at runtime.
-
-Examples:
 
 * Audio files
 * Textures (aka images)
@@ -179,7 +175,7 @@ TODO: diagram "isn't is just `file.read()?.parse()?`"
 
 Demo: Hot Reload
 
-@size[0.3em](see also: [`warmy`](https://crates.io/crates/warmy))
+@size[0.6em](see also: [`warmy`](https://crates.io/crates/warmy))
 
 ---
 
