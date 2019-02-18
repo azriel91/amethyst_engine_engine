@@ -91,19 +91,19 @@ $ git log --oneline --graph
 
 ### Philosophy: Unix Philosophy
 
-![](assets/images/history_refactor.png)
+![](assets/images/philosophy_refactor.png)
 
 +++
 
 ### Philosophy: Unix Philosophy
 
-TODO: diagram for game engines usually creating a mould, with bits that you can plug in.
+![](assets/images/philosophy_game_engine.png)
 
 +++
 
 ### Philosophy: Unix Philosophy
 
-TODO: diagram for amethyst with many blocks, but you have to join them together
+![](assets/images/philosophy_game_engine_engine.png)
 
 ---
 
