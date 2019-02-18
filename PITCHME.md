@@ -1,4 +1,4 @@
-## <img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" /> Amethyst: Game Engine Engine
+## <img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="100" height="100" /> Amethyst: Game Engine Engine
 
 Azriel Hoh
 
