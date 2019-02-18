@@ -1,4 +1,4 @@
-## Amethyst: Game Engine Engine
+## <img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" /> Amethyst: Game Engine Engine
 
 Azriel Hoh
 
@@ -9,7 +9,7 @@ Azriel Hoh
 * History
 * Philosophy
 * Features
-* Experience / Feedback
+* Personal Experience
 * Show off
 
 ---
@@ -292,6 +292,7 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ### Personal Experience
 
+* Errors are difficult to troubleshoot.
 * Expect API instability.
 * Expect to read source.
 * Expect to change source.
@@ -347,7 +348,9 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ### Thanks!
 
-* Amethyst community
+* @size[0.8em](<img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="50" height="50" /> Amethyst Community)
+* @size[0.8em](<img src="assets/images/ferris.png" width="75" height="50" /> Rust Community)
+* @size[0.8em](Movio)
 
 ---
 
@@ -360,4 +363,4 @@ fn my_system_does_something() -> Result<(), Error> {
 * @size[0.7em](Discord: https://discord.gg/amethyst)
 * @size[0.7em](Forum: https://community.amethyst-engine.org)
 * @size[0.7em](https://arewegameyet.com)
-* Also see `ggez`, `crayon`, `tetra`, `gate`
+* @size[0.7em](Also see `ggez`, `crayon`, `tetra`, `gate`)
