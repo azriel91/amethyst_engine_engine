@@ -369,9 +369,9 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ### Thanks!
 
-* @size[0.8em](<img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="50" height="50" /> Amethyst Community)
-* @size[0.8em](<img src="assets/images/ferris.png" width="75" height="50" /> Rust Community)
-* @size[0.8em](Movio)
+* @size[0.7em](<img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="50" height="50" /> Amethyst Community)
+* @size[0.7em](<img src="assets/images/ferris.png" width="75" height="50" /> Rust Community)
+* @size[0.7em](Movio)
 
 ---
 
