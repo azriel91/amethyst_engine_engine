@@ -73,9 +73,25 @@ $ git log --oneline --graph
 
 > Amethyst does not force you to adopt the way the creator thinks you should build a game, but it means that you have to be a good programmer to architect a game.
 >
-> It's also the kind of stuff which badly done, would cause massive refactoring later
+> It's also the kind of stuff which if badly done, would cause massive refactoring later
 
 @size[0.6em](`@webshinra` https://community.amethyst-engine.org/t/a-little-feedback/418)
+
++++
+
+### Philosophy: Unix Philosophy
+
+> Amethyst does not force you to adopt the way the creator thinks you should build a game, but it means that you have to be a good programmer to architect a game.
+>
+> It's also the kind of stuff which **if badly done, would cause massive refactoring later**
+
+@size[0.6em](`@webshinra` https://community.amethyst-engine.org/t/a-little-feedback/418)
+
++++
+
+### Philosophy: Unix Philosophy
+
+![](assets/images/history_refactor.png)
 
 +++
 
