@@ -127,7 +127,7 @@ Currently OpenGL via `gfx`.
 
 This will be replaced with `rendy`, backed by `gfx-hal`.
 
-![](assets/images/rendering_gfx_hal.svg)
+<img src="https://azriel.im/amethyst_engine_engine/assets/images/rendering_gfx_hal.svg" />
 
 +++
 
