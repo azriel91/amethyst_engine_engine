@@ -63,13 +63,19 @@ $ git log --oneline --graph
 
 ### Philosophy: Unix Philosophy
 
-> Unity or Godot are relatively good at what they do, but tend to bend the designer in a specific direction
->
-> Amethyst does not force you to adopt the way the creator think you should build a game, but it means that you have to be a good programmer to architect a game.
+> Unity or Godot are relatively good at what they do, but tend to bend the designer in a specific direction.
+
+@size[0.6em](`@webshinra` https://community.amethyst-engine.org/t/a-little-feedback/418)
+
++++
+
+### Philosophy: Unix Philosophy
+
+> Amethyst does not force you to adopt the way the creator thinks you should build a game, but it means that you have to be a good programmer to architect a game.
 >
 > It's also the kind of stuff which badly done, would cause massive refactoring later
 
-@size[0.5em](`@webshinra` https://community.amethyst-engine.org/t/a-little-feedback/418)
+@size[0.6em](`@webshinra` https://community.amethyst-engine.org/t/a-little-feedback/418)
 
 +++
 
