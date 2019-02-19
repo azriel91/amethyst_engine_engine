@@ -196,7 +196,7 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 
 Demo: Hot Reload
 
-@size[0.6em](see also: [`warmy`](https://crates.io/crates/warmy))
+@size[0.6em](see also: [`warmy`](https://crates.io/crates/warmy) )
 
 ---
 
