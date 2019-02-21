@@ -241,7 +241,7 @@ Very much a work in progress.
 
 ### Features: UI
 
-<img src="assets/images/rendering_ui_now.png" width="513" height="400" />
+<img src="assets/images/rendering_ui_now.png" width="651" height="400" />
 
 ---
 
