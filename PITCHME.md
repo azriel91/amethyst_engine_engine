@@ -265,7 +265,7 @@ profile_scope!("transform_system");
 
 Open `thread_profile.json` at `chrome://tracing`:
 
-![](assets/images/thread_profiler.png)
+<img src="assets/images/thread_profiler.png" width="500" height="400" />
 
 ---
 
