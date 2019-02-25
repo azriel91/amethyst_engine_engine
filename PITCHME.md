@@ -375,15 +375,11 @@ fn my_system_does_something() -> Result<(), Error> {
 
 ---
 
-### Questions, Answers and Comments
-
----
-
 ### Thanks!
 
-* @size[0.7em](<img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="50" height="50" /> Amethyst Community)
-* @size[0.7em](<img src="assets/images/ferris.png" width="75" height="50" /> Rust Community)
-* @size[0.7em](Movio)
+* @size[0.6em](<img src="https://azriel.im/amethyst_engine_engine/assets/images/logo-emblem-filled.svg" width="50" height="50" /> Amethyst Community)
+* @size[0.6em](<img src="assets/images/ferris.png" width="75" height="50" /> Rust Community)
+* @size[0.6em](Movio)
 
 ---
 
@@ -397,3 +393,7 @@ fn my_system_does_something() -> Result<(), Error> {
 * @size[0.7em](Forum: https://community.amethyst-engine.org)
 * @size[0.7em](https://arewegameyet.com)
 * @size[0.7em](Also see `ggez`, `crayon`, `tetra`, `gate`)
+
+---
+
+### Questions, Answers and Comments
