@@ -135,6 +135,10 @@ $ git log --oneline --graph
 
 ---
 
+### Breather
+
+---
+
 ### Features
 
 ---
@@ -197,6 +201,10 @@ This will be replaced with `rendy`, backed by `gfx-hal`.
 Demo: Hot Reload
 
 @size[0.6em](see also: https://crates.io/crates/warmy)
+
+---
+
+### Breather
 
 ---
 
@@ -304,6 +312,10 @@ fn my_system_does_something() -> Result<(), Error> {
 * **Prefabs:** *Premade fabrication* &ndash; templates for components.
 * **Physics:** To be implemented.
 * **WASM:** To be implemented.
+
+---
+
+### Breather
 
 ---
 
